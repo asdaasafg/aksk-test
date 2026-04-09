@@ -17,3 +17,4 @@ func main() {
 	}
 	fmt.Println("TOS client initialized:", client)
 }
+// test push protection
